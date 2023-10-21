@@ -103,7 +103,14 @@ python setup.py install
 ### Push your file and folder structure to git repo.
 - create a git repo or use exsting one
 - in cmd:
-    - git init
-    - git add .
-    - git status
-    - git 
+```
+- git init
+- git add .
+- git status
+- git remote -v   #first time only
+- git branch -M main        #first time only
+- git remote add origin `repo location`      #first time only
+- git commit -m "comment"
+- git push -u origin main
+```
+
