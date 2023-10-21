@@ -126,6 +126,7 @@ python setup.py install
 - To have the historical data or raw data in this folder
 
 ## Data
+
 ### Introduction About the Data :
 
 **The dataset** The goal is to predict `price` of given diamond (Regression Analysis).
@@ -148,5 +149,8 @@ Target variable:
 
 Dataset Source Link :
 [https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv](https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv)
+
+
+### EDA : 
 
 
