@@ -152,9 +152,29 @@ Dataset Source Link :
 
 
 ### EDA : 
-
-
-
+-
+-
+-
+-
+-
 ### Create a file `model training.ipynb` in `Notebooks` folder
-    
+-
+-
+-
+-
+-
+
+### Logging and exception handling
+- Create a file `eception.py` in `src` folder # if already craeted then follow steps below:
+-
+-
+-
+-
+### Logger file
+-
+-
+-
+-
+-
+### 
 
