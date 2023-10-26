@@ -192,16 +192,19 @@ Dataset Source Link :
 ### utils.py
 -
 -
--
+- create a model loading function here
 -
 -
 -
 -
 ### create a file `model_trainer.py` in `src` folder
-- 
-- 
-- 
 
+- 
+- 
+- 
+### Pridiction Pipeline
+- Create a `prediction_pipeline.py` file in `pipeline` folder
+- 
 
 
 
